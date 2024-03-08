@@ -1,0 +1,13 @@
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Release\XiaZaiWZ.Models.dll.config
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Release\XiaZaiWZ.Models.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Release\XiaZaiWZ.Models.pdb
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Release\EntityFramework.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Release\EntityFramework.SqlServer.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Release\EntityFramework.xml
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Release\EntityFramework.SqlServer.xml
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Release\XiaZaiWZ.Models.csproj.AssemblyReference.cache
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Release\XiaZaiWZ.Models.csproj.CoreCompileInputs.cache
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Release\XiaZaiWZ.Models.csproj.CopyComplete
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Release\XiaZaiWZ.Models.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Release\XiaZaiWZ.Models.pdb

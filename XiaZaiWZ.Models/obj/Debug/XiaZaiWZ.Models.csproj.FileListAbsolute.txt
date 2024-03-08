@@ -1,0 +1,61 @@
+G:\大二\卓越项目-20级12班\第5组\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll
+G:\大二\卓越项目-20级12班\第5组\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.pdb
+G:\大二\卓越项目-20级12班\第5组\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CoreCompileInputs.cache
+G:\大二\卓越项目-20级12班\第5组\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.dll
+G:\大二\卓越项目-20级12班\第5组\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.pdb
+E:\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll
+E:\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.pdb
+E:\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.AssemblyReference.cache
+E:\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CoreCompileInputs.cache
+E:\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.dll
+E:\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.pdb
+C:\Users\Administrator\Desktop\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll
+C:\Users\Administrator\Desktop\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.pdb
+C:\Users\Administrator\Desktop\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.dll
+C:\Users\Administrator\Desktop\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.pdb
+G:\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll
+G:\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.pdb
+G:\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CoreCompileInputs.cache
+G:\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.dll
+G:\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.pdb
+G:\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.AssemblyReference.cache
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll.config
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.pdb
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.xml
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.AssemblyReference.cache
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CoreCompileInputs.cache
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CopyComplete
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.pdb
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll.config
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.pdb
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.dll
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.xml
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.AssemblyReference.cache
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CoreCompileInputs.cache
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CopyComplete
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.dll
+G:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.pdb
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll.config
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.dll
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\XiaZaiWZ.Models.pdb
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.dll
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.xml
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.AssemblyReference.cache
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CoreCompileInputs.cache
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.csproj.CopyComplete
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.dll
+F:\Homework\大二项目\ASP.NET\实践项目\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.Models\obj\Debug\XiaZaiWZ.Models.pdb

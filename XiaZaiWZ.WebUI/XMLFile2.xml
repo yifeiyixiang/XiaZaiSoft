@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMapNode url="" title="用户管理"  description="用户管理">
+	<siteMapNode url="UserManage/EDitUserPwd.aspx" title="修改密码"  description="修改密码" />
+	<siteMapNode url="UserManage/ManageWeb.aspx" title="用户管理"  description="用户管理" />
+	<siteMapNode url="UserManage/Add.aspx" title="添加用户"  description="添加用户" />
+</siteMapNode>

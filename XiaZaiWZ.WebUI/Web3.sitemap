@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="" title="友情连接"  description="友情连接">
+		<siteMapNode url="" title="添加连接"  description="添加连接" />
+		<siteMapNode url="" title="连接管理"  description="连接管理" />
+	</siteMapNode>
+</siteMap>

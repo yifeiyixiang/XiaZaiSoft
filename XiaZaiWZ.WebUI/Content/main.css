@@ -1,0 +1,48 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+body {
+}
+#container{ 
+}
+.main {
+    width: 80%; 
+    margin: 0 auto;
+}
+.main a{
+        text-decoration:none;  
+}
+.main .warpright a{
+        color:black; 
+}
+.header {
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: large;
+    font-family: fangsong;
+    overflow: hidden;
+}
+.header .fullscreenvideo{ 
+ height:224px;
+}
+.nga {
+    background: linear-gradient(359deg, #3895e1, #340be178);
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+}
+.nga a{ 
+    text-decoration:none; 
+    color:white;
+}
+.nga a:hover {
+    color: lightcoral;
+}
+ 

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="" title="文章管理"  description="文章管理">
+		<siteMapNode url="" title="添加分类"  description="添加分类" />
+		<siteMapNode url="" title="分类管理"  description="分类管理" />
+		<siteMapNode url="AddFile.aspx" title="添加文章"  description="添加文章" />
+		<siteMapNode url="" title="文章管理"  description="文章管理" />
+		<siteMapNode url="Add.aspx" title="添加用户"  description="添加用户" />
+		<siteMapNode url="" title="文章管理"  description="文章管理" />
+	</siteMapNode>
+</siteMap>

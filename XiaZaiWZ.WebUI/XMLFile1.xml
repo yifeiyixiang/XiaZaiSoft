@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMapNode url="" title="系统设置"  description="系统设置">
+	<siteMapNode url="SystemSet/SiteEdit.aspx" title="站点设置"  description="站点设置" />
+	<siteMapNode url="SystemSet/SystemProbe.aspx" title="系统探针"  description="系统探针" />
+	<siteMapNode url="SystemSet/SystemLog.aspx" title="日志管理"  description="日志管理" />
+	<siteMapNode url="SystemSet/statichtml.aspx" title="生成静态"  description="生成静态" />
+</siteMapNode>

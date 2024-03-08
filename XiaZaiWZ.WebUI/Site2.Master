@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="XiaZaiWZ.WebUI.Site2" %>
+!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="textml; charset=utf-8"/>
+    <title></title>
+    <link href="Content/Site2.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="leirong">
+            <div class="header">
+                <img src="images/Logo.gif"/>
+                <img src="images/feixin_468x60.gif"/>
+                <div class="header1">
+                    <div class="header2">
+                        <p>设为首页</p>
+                        <p>加到收藏</p>
+                    </div>
+                </div>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li>站点首页<>
+                    <li>|<>
+                    <li>编程开发<>
+                    <li>|<>
+                    <li>数据库<>
+                    <li>|<>
+                    <li>系统管理<>
+                    <li>|<>
+                    <li>平面与多媒体<>
+                    <li>|<>
+                    <li>网络通讯<>
+                    <li>|<>
+                    <li>考试资源<>
+                    <li>|<>
+                </ul>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+<ml>
+

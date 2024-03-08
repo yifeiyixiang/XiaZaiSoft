@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMapNode url="" title="文章管理"  description="文章管理">
+	<siteMapNode url="Category/AddFirstCategory.aspx" title="添加分类"  description="添加分类" />
+	<siteMapNode url="Category/CategoryList.aspx" title="分类管理"  description="分类管理" />
+	<siteMapNode url="Category/AddFile.aspx" title="添加文章"  description="添加文章" />
+	<siteMapNode url="Category/ManagerFile.aspx" title="文章管理"  description="文章管理" />
+</siteMapNode>

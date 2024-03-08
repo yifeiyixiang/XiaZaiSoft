@@ -1,0 +1,70 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*左边*/
+.left {
+    float: left;
+    width: 250px;
+    height: 100vh;
+    background: green;
+    background-color: #76A1E7;
+    background: transparent url("/images/bg.jpg") center center no-repeat fixed;
+    background-size: cover;
+}
+
+/*右边*/
+.right {
+    padding-top: 50px;
+    margin-left: 250px;
+    height: 100vh;
+    overflow: auto;
+    background-color: #C9D8F9;
+    background-image: linear-gradient(135deg, #F2F2F4,#D6DFF7);
+}
+
+.menu {
+    background-color: #D6DFF7;
+    margin: 10px 10px 20px 15px;
+    width: 220px;
+    border-radius: 5px;
+    padding: 8px 70px 8px 8px;
+    box-shadow: rgba(0,0,0,0.5) 0px 0px 15px;
+}
+
+.navbar-nav {
+    margin: 0px;
+}
+
+.navbar-default {
+    margin: 0px;
+    background: transparent url("/images/bg3.jpg") center center no-repeat fixed;
+    background-size: cover;
+}
+
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        border-color: transparent;
+    }
+
+.content {
+    display: flex;
+    height: 100%;
+}
+
+.panel {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+    box-shadow: rgba(0,0,0,0.2) 0px 0px 15px;
+    border-radius:5px;
+}
+
+.title {
+    background-color: #D9EDF7;
+    background-image: linear-gradient(135deg, #F2F2F4,#D6DFF7);
+    background-size: cover;
+}

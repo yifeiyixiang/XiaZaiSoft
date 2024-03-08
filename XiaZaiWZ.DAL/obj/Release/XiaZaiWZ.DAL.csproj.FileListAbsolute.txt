@@ -1,0 +1,13 @@
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\bin\Release\XiaZaiWZ.DAL.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\bin\Release\XiaZaiWZ.DAL.pdb
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\bin\Release\XiaZaiWZ.Models.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\bin\Release\EntityFramework.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\bin\Release\XiaZaiWZ.Models.pdb
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\bin\Release\XiaZaiWZ.Models.dll.config
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\bin\Release\EntityFramework.xml
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\obj\Release\XiaZaiWZ.DAL.csproj.AssemblyReference.cache
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\obj\Release\XiaZaiWZ.DAL.csproj.CoreCompileInputs.cache
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\obj\Release\XiaZaiWZ.DAL.csproj.CopyComplete
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\obj\Release\XiaZaiWZ.DAL.dll
+E:\寒暑假作业\Other Project\下载网站\XiaZaiWZ\XiaZaiWZ.DAL\obj\Release\XiaZaiWZ.DAL.pdb

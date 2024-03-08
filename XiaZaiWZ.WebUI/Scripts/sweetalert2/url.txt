@@ -1,0 +1,9 @@
+Ô´Âë£º
+https://github.com/sweetalert2
+
+¹ÙÍø£º
+https://sweetalert2.github.io/
+
+ÊµÀı£º
+website/index.html
+website/test.html

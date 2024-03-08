@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="" title="系统设置"  description="系统设置">
+		<siteMapNode url="" title="站点设置"  description="站点设置" />
+		<siteMapNode url="" title="系统探针"  description="系统探针" />
+		<siteMapNode url="" title="日志管理"  description="日志管理" />
+		<siteMapNode url="" title="生成静态"  description="生成静态" />
+	</siteMapNode>
+</siteMap>
